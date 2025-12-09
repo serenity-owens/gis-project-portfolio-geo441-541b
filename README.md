@@ -17,11 +17,16 @@ Author: Serenity Owens
 
 ## Vector Data Visualization
 
-- [Map of U.S. county age indexes based on 2000 census data](GitHub Link)
+- [Map of U.S. county age indexes based on 2000 census data](https://github.com/serenity-owens/gis-project-portfolio-geo441-541b/blob/c1dc6ceeae0f358daa729edf2cdc934eaccb2143/vector-data-visualization/querying-vector-data-tables.ipynb)
 
 ## Raster Data Visualization
 
-- [Maps of Oxford, OH topography](GitHub Link)
+- [Digital Elevation and Hydrology Data](https://github.com/serenity-owens/gis-project-portfolio-geo441-541b/blob/99d8d0e1b9da4b28a480cc469aa509949dbf5f79/raster-data-visualization/digital-elevation-hydrology-data.ipynb)
+
+- [Maps of Oxford, OH topography](https://github.com/serenity-owens/gis-project-portfolio-geo441-541b/blob/dd2a834522b70b0635fbef832f6a83a88c7f7c7d/raster-data-visualization/raster-data-terrain-analysis.ipynb)
 
 ## Spatial Data Analysis
-- [Maps of John Snow's Cholera Outbreak Invesitation in Soho](GitHub Link)
+
+- [Maps of John Snow's Cholera Outbreak Invesitation in Soho](https://github.com/serenity-owens/gis-project-portfolio-geo441-541b/blob/1fa71014436f23b98a9a4c46b1d3a235092d193e/spatial-data-analysis/vector-data-spatial-analysis.ipynb)
+
+- [Census Data](https://github.com/serenity-owens/gis-project-portfolio-geo441-541b/blob/c4786c70827385c2954e1992c7b2708b70852598/spatial-data-analysis/census-data.ipynb)
